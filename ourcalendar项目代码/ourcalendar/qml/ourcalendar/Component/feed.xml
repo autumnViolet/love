@@ -1,0 +1,22 @@
+<!--xml version = "1.0" encoding = "utf-8" -->
+  <rss version = "2.0">
+    <channel>
+      <item>
+        <name>元旦节</name>
+        <shortt>元旦节,每年第一天</shortt>
+        <longg>元旦节每年第一天你好我哈大家我好</longg>
+      </item>      
+      <item>
+        <name>情人节</name>
+        <shortt>情人节,每年二月十四日</shortt>
+         <longg>情人节每年二月十四日全球人民都过的情人节</longg>
+
+     </item>
+     <item>
+             <name>妇女节</name>
+             <shortt>妇女节每年三月八日</shortt>
+              <longg>妇女节每年三月八日全球女人都过的妇女节</longg>
+
+          </item>
+      </channel>
+    </rss>
